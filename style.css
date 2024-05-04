@@ -1,0 +1,42 @@
+html { font-size 100%; }
+
+body {
+  background-color: #121212;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #F5F5F5;
+}
+
+h2 {
+  font-size: 1.875rem;
+  padding: 3px 30px;
+  color: #F5F5F5;
+}
+
+p {
+  font-size: 0.875rem;
+  color: #F5F5F5;
+  padding: 3px 15px;
+  text-align: justify;
+}
+
+a { text-decoration: none; }
+
+a:link { color: #0000FF }
+
+a:visited { #6495ED; }
+
+a:hover, a:active { color: #0000FF; }
+
+table, tr, td, caption {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  padding: 0.5rem;
+  width: 100%;
+}
+
